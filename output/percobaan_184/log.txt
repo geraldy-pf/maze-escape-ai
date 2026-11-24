@@ -1,0 +1,248 @@
+PERCOBAAN 184
+Seed            : 184
+Sidik jari maze : 306cd1bb7f161f5cb084aa6023120bc188163809
+Ukuran logis    : 10 x 10 (grid aktual 21 x 21)
+Jumlah item     : 5
+Portal          : 2 pasang
+Start -> Exit   : (1, 1) -> (13, 5)
+Observability   : Partially (radius 1)
+------------------------------------------------------------
+Langkah    1 -> (2, 1) | aksi: eksplorasi
+Langkah    2 -> (3, 1) | aksi: eksplorasi
+Langkah    3 -> (4, 1) | aksi: eksplorasi
+Langkah    4 -> (5, 1) | aksi: eksplorasi
+Langkah    5 -> (6, 1) | aksi: eksplorasi
+Langkah    6 -> (7, 1) | aksi: eksplorasi
+Langkah    7 -> (8, 1) | aksi: eksplorasi
+Langkah    8 -> (9, 1) | aksi: eksplorasi
+Langkah    9 -> (10, 1) | aksi: eksplorasi
+Langkah   10 -> (11, 1) | aksi: eksplorasi
+Langkah   11 -> (12, 1) | aksi: eksplorasi
+Langkah   12 -> (13, 1) | aksi: eksplorasi
+Langkah   13 -> (13, 2) | aksi: eksplorasi
+Langkah   14 -> (13, 3) | aksi: eksplorasi
+Langkah   15 -> (12, 3) | aksi: eksplorasi
+Langkah   16 -> (11, 3) | aksi: eksplorasi
+Langkah   17 -> (11, 4) | aksi: eksplorasi
+Langkah   18 -> (11, 5) | aksi: eksplorasi
+Langkah   19 -> (11, 6) | aksi: eksplorasi
+Langkah   20 -> (11, 7) | aksi: eksplorasi
+Langkah   21 -> (12, 7) | aksi: eksplorasi
+Langkah   22 -> (13, 7) | aksi: eksplorasi
+Langkah   23 -> (14, 7) | aksi: eksplorasi
+Langkah   24 -> (15, 7) | aksi: eksplorasi
+Langkah   25 -> (15, 8) | aksi: eksplorasi
+Langkah   26 -> (15, 9) | aksi: eksplorasi
+Langkah   27 -> (14, 9) | aksi: eksplorasi
+Langkah   28 -> (13, 9) | aksi: eksplorasi
+Langkah   29 -> (12, 9) | aksi: eksplorasi
+Langkah   30 -> (11, 9) | aksi: eksplorasi
+Langkah   31 -> (11, 10) | aksi: eksplorasi
+Langkah   32 -> (11, 11) | aksi: eksplorasi
+Langkah   33 -> (10, 11) | aksi: eksplorasi
+Langkah   34 -> (9, 11) | aksi: eksplorasi
+Langkah   35 -> (9, 10) | aksi: eksplorasi
+Langkah   36 -> (9, 9) | aksi: eksplorasi
+Langkah   37 -> (8, 9) | aksi: eksplorasi
+Langkah   38 -> (7, 9) | aksi: eksplorasi
+Langkah   39 -> (6, 9) | aksi: eksplorasi
+Langkah   40 -> (5, 9) | aksi: eksplorasi
+Langkah   41 -> (5, 10) | aksi: eksplorasi
+Langkah   42 -> (5, 11) | aksi: ambil_item
+Langkah   43 -> (5, 12) | aksi: eksplorasi
+Langkah   44 -> (5, 13) | aksi: eksplorasi
+Langkah   45 -> (6, 13) | aksi: eksplorasi
+Langkah   46 -> (7, 13) | aksi: eksplorasi
+Langkah   47 -> (7, 12) | aksi: eksplorasi
+Langkah   48 -> (7, 11) | aksi: ambil_item
+Langkah   49 -> (7, 12) | aksi: eksplorasi
+Langkah   50 -> (7, 13) | aksi: eksplorasi
+Langkah   51 -> (7, 14) | aksi: eksplorasi
+Langkah   52 -> (7, 15) | aksi: eksplorasi
+Langkah   53 -> (8, 15) | aksi: eksplorasi
+Langkah   54 -> (9, 15) | aksi: eksplorasi
+Langkah   55 -> (9, 16) | aksi: eksplorasi
+Langkah   56 -> (9, 17) | aksi: eksplorasi
+Langkah   57 -> (8, 17) | aksi: eksplorasi
+Langkah   58 -> (7, 17) | aksi: eksplorasi
+Langkah   59 -> (6, 17) | aksi: eksplorasi
+Langkah   60 -> (5, 17) | aksi: eksplorasi
+Langkah   61 -> (4, 17) | aksi: eksplorasi
+Langkah   62 -> (3, 17) | aksi: eksplorasi
+Langkah   63 -> (2, 17) | aksi: eksplorasi
+Langkah   64 -> (1, 17) | aksi: eksplorasi
+Langkah   65 -> (1, 18) | aksi: eksplorasi
+Langkah   66 -> (1, 19) | aksi: ambil_item
+Langkah   67 -> (2, 19) | aksi: eksplorasi
+Langkah   68 -> (3, 19) | aksi: eksplorasi
+Langkah   69 -> (4, 19) | aksi: eksplorasi
+Langkah   70 -> (5, 19) | aksi: eksplorasi
+Langkah   71 -> (6, 19) | aksi: eksplorasi
+Langkah   72 -> (7, 19) | aksi: eksplorasi
+Langkah   73 -> (8, 19) | aksi: eksplorasi
+Langkah   74 -> (9, 19) | aksi: eksplorasi
+Langkah   75 -> (10, 19) | aksi: eksplorasi
+Langkah   76 -> (11, 19) | aksi: eksplorasi
+Langkah   77 -> (11, 18) | aksi: eksplorasi
+Langkah   78 -> (11, 17) | aksi: eksplorasi
+Langkah   79 -> (12, 17) | aksi: eksplorasi
+Langkah   80 -> (13, 17) | aksi: eksplorasi
+Langkah   81 -> (14, 17) | aksi: eksplorasi
+Langkah   82 -> (15, 17) | aksi: eksplorasi
+Langkah   83 -> (15, 16) | aksi: eksplorasi
+Langkah   84 -> (15, 15) | aksi: eksplorasi
+Langkah   85 -> (16, 15) | aksi: eksplorasi
+Langkah   86 -> (17, 15) | aksi: eksplorasi
+Langkah   87 -> (18, 15) | aksi: eksplorasi
+Langkah   88 -> (19, 15) | aksi: eksplorasi
+Langkah   89 -> (19, 14) | aksi: eksplorasi
+Langkah   90 -> (19, 13) | aksi: ambil_item
+Langkah   91 -> (19, 12) | aksi: eksplorasi
+Langkah   92 -> (19, 11) | aksi: eksplorasi
+Langkah   93 -> (19, 10) | aksi: eksplorasi
+Langkah   94 -> (19, 9) | aksi: eksplorasi
+Langkah   95 -> (18, 9) | aksi: eksplorasi
+Langkah   96 -> (17, 9) | aksi: eksplorasi
+Langkah   97 -> (17, 8) | aksi: eksplorasi
+Langkah   98 -> (17, 7) | aksi: eksplorasi
+Langkah   99 -> (18, 7) | aksi: eksplorasi
+Langkah  100 -> (19, 7) | aksi: eksplorasi
+Langkah  101 -> (19, 6) | aksi: eksplorasi
+Langkah  102 -> (19, 5) | aksi: eksplorasi
+Langkah  103 -> (19, 4) | aksi: eksplorasi
+Langkah  104 -> (19, 3) | aksi: eksplorasi
+Langkah  105 -> (18, 3) | aksi: eksplorasi
+Langkah  106 -> (17, 3) | aksi: eksplorasi
+Langkah  107 -> (17, 4) | aksi: eksplorasi
+Langkah  108 -> (17, 5) | aksi: eksplorasi
+Langkah  109 -> (16, 5) | aksi: eksplorasi
+Langkah  110 -> (15, 5) | aksi: eksplorasi
+Langkah  111 -> (14, 5) | aksi: eksplorasi
+Langkah  112 -> (15, 5) | aksi: eksplorasi
+Langkah  113 -> (15, 4) | aksi: eksplorasi
+Langkah  114 -> (15, 3) | aksi: eksplorasi
+Langkah  115 -> (15, 2) | aksi: eksplorasi
+Langkah  116 -> (15, 1) | aksi: eksplorasi
+Langkah  117 -> (16, 1) | aksi: eksplorasi
+Langkah  118 -> (17, 1) | aksi: eksplorasi
+Langkah  119 -> (18, 1) | aksi: eksplorasi
+Langkah  120 -> (19, 1) | aksi: eksplorasi
+Langkah  121 -> (19, 2) | aksi: eksplorasi
+Langkah  122 -> (19, 3) | aksi: eksplorasi
+Langkah  123 -> (19, 4) | aksi: eksplorasi
+Langkah  124 -> (19, 5) | aksi: eksplorasi
+Langkah  125 -> (19, 6) | aksi: eksplorasi
+Langkah  126 -> (19, 7) | aksi: eksplorasi
+Langkah  127 -> (18, 7) | aksi: eksplorasi
+Langkah  128 -> (17, 7) | aksi: eksplorasi
+Langkah  129 -> (17, 8) | aksi: eksplorasi
+Langkah  130 -> (17, 9) | aksi: eksplorasi
+Langkah  131 -> (17, 10) | aksi: eksplorasi
+Langkah  132 -> (17, 11) | aksi: eksplorasi
+Langkah  133 -> (17, 12) | aksi: eksplorasi
+Langkah  134 -> (17, 13) | aksi: eksplorasi
+Langkah  135 -> (16, 13) | aksi: eksplorasi
+Langkah  136 -> (15, 13) | aksi: eksplorasi
+Langkah  137 -> (14, 13) | aksi: eksplorasi
+Langkah  138 -> (13, 13) | aksi: eksplorasi
+Langkah  139 -> (13, 12) | aksi: eksplorasi
+Langkah  140 -> (13, 11) | aksi: eksplorasi
+Langkah  141 -> (14, 11) | aksi: eksplorasi
+Langkah  142 -> (13, 11) | aksi: eksplorasi
+Langkah  143 -> (13, 12) | aksi: eksplorasi
+Langkah  144 -> (13, 13) | aksi: eksplorasi
+Langkah  145 -> (13, 14) | aksi: eksplorasi
+Langkah  146 -> (13, 15) | aksi: eksplorasi
+Langkah  147 -> (12, 15) | aksi: eksplorasi
+Langkah  148 -> (11, 15) | aksi: eksplorasi
+Langkah  149 -> (11, 14) | aksi: eksplorasi
+Langkah  150 -> (11, 13) | aksi: eksplorasi
+Langkah  151 -> (10, 13) | aksi: eksplorasi
+Langkah  152 -> (11, 13) | aksi: eksplorasi
+Langkah  153 -> (11, 14) | aksi: eksplorasi
+Langkah  154 -> (11, 15) | aksi: eksplorasi
+Langkah  155 -> (12, 15) | aksi: eksplorasi
+Langkah  156 -> (13, 15) | aksi: eksplorasi
+Langkah  157 -> (13, 14) | aksi: eksplorasi
+Langkah  158 -> (13, 13) | aksi: eksplorasi
+Langkah  159 -> (14, 13) | aksi: eksplorasi
+Langkah  160 -> (15, 13) | aksi: eksplorasi
+Langkah  161 -> (16, 13) | aksi: eksplorasi
+Langkah  162 -> (17, 13) | aksi: eksplorasi
+Langkah  163 -> (17, 12) | aksi: eksplorasi
+Langkah  164 -> (17, 11) | aksi: eksplorasi
+Langkah  165 -> (17, 10) | aksi: eksplorasi
+Langkah  166 -> (17, 9) | aksi: eksplorasi
+Langkah  167 -> (18, 9) | aksi: eksplorasi
+Langkah  168 -> (19, 9) | aksi: eksplorasi
+Langkah  169 -> (19, 10) | aksi: eksplorasi
+Langkah  170 -> (19, 11) | aksi: eksplorasi
+Langkah  171 -> (19, 12) | aksi: eksplorasi
+Langkah  172 -> (19, 13) | aksi: eksplorasi
+Langkah  173 -> (19, 14) | aksi: eksplorasi
+Langkah  174 -> (19, 15) | aksi: eksplorasi
+Langkah  175 -> (19, 16) | aksi: eksplorasi
+Langkah  176 -> (19, 17) | aksi: eksplorasi
+Langkah  177 -> (18, 17) | aksi: eksplorasi
+Langkah  178 -> (17, 17) | aksi: eksplorasi
+Langkah  179 -> (17, 18) | aksi: eksplorasi
+Langkah  180 -> (17, 19) | aksi: eksplorasi
+Langkah  181 -> (16, 19) | aksi: eksplorasi
+Langkah  182 -> (15, 19) | aksi: ambil_item
+Langkah  183 -> (16, 19) | aksi: menuju_exit
+Langkah  184 -> (17, 19) | aksi: menuju_exit
+Langkah  185 -> (17, 18) | aksi: menuju_exit
+Langkah  186 -> (17, 17) | aksi: menuju_exit
+Langkah  187 -> (18, 17) | aksi: menuju_exit
+Langkah  188 -> (19, 17) | aksi: menuju_exit
+Langkah  189 -> (19, 16) | aksi: menuju_exit
+Langkah  190 -> (19, 15) | aksi: menuju_exit
+Langkah  191 -> (19, 14) | aksi: menuju_exit
+Langkah  192 -> (19, 13) | aksi: menuju_exit
+Langkah  193 -> (19, 12) | aksi: menuju_exit
+Langkah  194 -> (19, 11) | aksi: menuju_exit
+Langkah  195 -> (19, 10) | aksi: menuju_exit
+Langkah  196 -> (19, 9) | aksi: menuju_exit
+Langkah  197 -> (18, 9) | aksi: menuju_exit
+Langkah  198 -> (17, 9) | aksi: menuju_exit
+Langkah  199 -> (17, 8) | aksi: menuju_exit
+Langkah  200 -> (17, 7) | aksi: menuju_exit
+Langkah  201 -> (18, 7) | aksi: menuju_exit
+Langkah  202 -> (19, 7) | aksi: menuju_exit
+Langkah  203 -> (19, 6) | aksi: menuju_exit
+Langkah  204 -> (19, 5) | aksi: menuju_exit
+Langkah  205 -> (19, 4) | aksi: menuju_exit
+Langkah  206 -> (19, 3) | aksi: menuju_exit
+Langkah  207 -> (18, 3) | aksi: menuju_exit
+Langkah  208 -> (17, 3) | aksi: menuju_exit
+Langkah  209 -> (17, 4) | aksi: menuju_exit
+Langkah  210 -> (17, 5) | aksi: menuju_exit
+Langkah  211 -> (16, 5) | aksi: menuju_exit
+Langkah  212 -> (15, 5) | aksi: menuju_exit
+Langkah  213 -> (14, 5) | aksi: menuju_exit
+Langkah  214 -> (13, 5) | aksi: menuju_exit
+------------------------------------------------------------
+HASIL: SUCCESS | langkah: 214 | item: 5/5 | teleport: 0
+
+Peta yang diketahui agent di akhir:
+ #               ### 
+#S.             #...#
+#.#             #.#.#
+#.#             #...#
+#.#      #####  #.#.#
+#.#     #.....# ..#.#
+#.#     #.###.###.#.#
+#.#     #.#.....#...#
+#.#     #.#####.#.#.#
+#..     ....#1#...#.#
+#.###### ##.#.#####.#
+#.#.....#...#...#...#
+#.#.###.#.#####.#.## 
+#...#A#.#.#.....#.#  
+ ####.#.#.#.#.###.#. 
+#.....#...#.#.#...#.#
+#.###.#######.#.###.#
+#.#...#.......#.#...#
+#.#.###.#.#####.#.#. 
+#.......#.........#  
+ ####### #########   
